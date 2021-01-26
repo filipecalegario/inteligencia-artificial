@@ -7,6 +7,7 @@
 * [(Youtube) Discovery Brasil - Inteligência Artificial - IBM](https://www.youtube.com/watch?v=W95YlM5-iPk)
 * [(Youtube) Nerdologia - Ultron e a revolução da inteligência artificial](https://www.youtube.com/watch?v=CRy2g_-SqKY)
 * [(Youtube) Nerdologia - Robôs vão tomar o seu emprego? Automatização do trabalho](https://www.youtube.com/watch?v=OEo14_iw7ho)
+* [(Wikibook) Artificial Intelligence](https://en.wikibooks.org/wiki/Artificial_Intelligence)
 
 # Arquitetura de Agentes Inteligentes
 
