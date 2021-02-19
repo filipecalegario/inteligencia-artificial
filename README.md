@@ -51,3 +51,26 @@
 # Raciocínio e Representação do Conhecimento
 
 # Sistemas Multiagentes
+
+# Backlog de Links para processar
+https://algorithm-visualizer.org/brute-force/depth-first-search
+https://clementmihailescu.github.io/Pathfinding-Visualizer/
+https://github.com/filipecalegario/inteligencia-artificial
+https://github.com/pedrohcaminha/Projetos-UFPE-CC
+https://qiao.github.io/PathFinding.js/visual/
+https://www.youtube.com/watch?v=NUgMa5coCoE
+https://www.youtube.com/watch?v=x-VTfcmrLEQ
+https://www.youtube.com/watch?v=GC-nBgi9r0U
+https://www.youtube.com/watch?v=ySN5Wnu88nE
+https://www.youtube.com/watch?v=19h1g22hby8
+https://youtu.be/1-YPj5Vt0oQ
+https://www.youtube.com/watch?v=g024lzsknDo
+https://www.youtube.com/watch?v=XyoucHYKYSE
+https://www.toptal.com/developers/sorting-algorithms
+https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
+https://www.youtube.com/watch?v=dv1m3L6QXWs
+https://qiao.github.io/PathFinding.js/visual/
+https://www.cs.usfca.edu/~galles/visualization/Search.html
+https://visualgo.net/pt
+https://algorithm-visualizer.org/brute-force/depth-first-search
+http://aimacode.github.io/aima-javascript/3-Solving-Problems-By-Searching/
