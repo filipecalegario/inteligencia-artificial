@@ -76,3 +76,4 @@
 * http://aimacode.github.io/aima-javascript/3-Solving-Problems-By-Searching/
 * https://www.redblobgames.com/pathfinding/a-star/introduction.html
 * https://pathfindout.com/
+* https://visualgo.net/en
