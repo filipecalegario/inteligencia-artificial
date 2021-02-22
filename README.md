@@ -74,3 +74,4 @@
 * https://visualgo.net/pt
 * https://algorithm-visualizer.org/brute-force/depth-first-search
 * http://aimacode.github.io/aima-javascript/3-Solving-Problems-By-Searching/
+* https://www.redblobgames.com/pathfinding/a-star/introduction.html
