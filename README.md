@@ -81,7 +81,7 @@
 # Exemplos
 
 * [Genetic Algorithm Walkers](https://rednuht.org/genetic_walkers/)
-* ![Image from Exemplos](https://media.milanote.com/p/images/1Ik1p31uxJJE0d/yIy/Screen+Shot+2019-10-14+at+11.32.51.png)
+![Image from Exemplos](https://media.milanote.com/p/images/1Ik1p31uxJJE0d/yIy/Screen+Shot+2019-10-14+at+11.32.51.png)
 * [Multiplayer Genetic Algorithm 2D Car - PubNub Real-time Network](http://gencar.co/)
 
 This game is connected to the world, all players are sharing their best cars each game round. Only the dominant cars win. The TOP car from each player in the world is added to your car list each game cycle. This car is therefore added to your gene pool and is then genetically spliced and paired with your other cars.
