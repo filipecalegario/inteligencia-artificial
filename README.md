@@ -77,3 +77,23 @@
 * https://www.redblobgames.com/pathfinding/a-star/introduction.html
 * https://pathfindout.com/
 * https://visualgo.net/en
+
+# Exemplos
+
+* [Genetic Algorithm Walkers](https://rednuht.org/genetic_walkers/)
+* ![Image from Exemplos](https://media.milanote.com/p/images/1Ik1p31uxJJE0d/yIy/Screen+Shot+2019-10-14+at+11.32.51.png)
+* [Multiplayer Genetic Algorithm 2D Car - PubNub Real-time Network](http://gencar.co/)
+
+This game is connected to the world, all players are sharing their best cars each game round. Only the dominant cars win. The TOP car from each player in the world is added to your car list each game cycle. This car is therefore added to your gene pool and is then genetically spliced and paired with your other cars.
+
+* [HTML5 Genetic Algorithm 2D Car Thingy - Chrome recommended](https://rednuht.org/genetic_cars_2/)
+
+The program uses a simple genetic algorithm to evolve random two-wheeled shapes into cars over generations. Loosely based on BoxCar2D, but written from scratch, only using the same physics engine ( box2d). seedrandom.js written by David Bau. (thanks!) Save Population Saves current population locally. Restore Saved Population Restore a previously saved population.
+
+* [Evolution](https://keiwan.itch.io/evolution)
+
+Use joints, bones and muscles to build creatures that are only limited by your imagination. Watch how the combination of a neural network and a genetic algorithm can enable your creatures to "learn" and improve at their given tasks all on their own. The tasks include running, jumping and climbing.
+
+* [Karl Sims - Evolved Virtual Creatures, Evolution Simulation, 1994](https://youtu.be/JBgG_VSP7f8)
+* [The Surprising Creativity of Digital Evolution - YouTube](https://www.youtube.com/playlist?list=PL5278ezwmoxQODgYB0hWnC0-Ob09GZGe2)
+* [Strandbeest](https://www.strandbeest.com/theo_cv.php)
