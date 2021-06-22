@@ -78,7 +78,7 @@
 * https://pathfindout.com/
 * https://visualgo.net/en
 
-# Exemplos
+# Sistemas Evolutivos
 
 * [Genetic Algorithm Walkers](https://rednuht.org/genetic_walkers/)
 ![Image from Exemplos](https://media.milanote.com/p/images/1Ik1p31uxJJE0d/yIy/Screen+Shot+2019-10-14+at+11.32.51.png)
