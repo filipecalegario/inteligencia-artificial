@@ -1,5 +1,5 @@
 # Inbox
-* [Artificial Intelligence and Life in 2030: ](https://ai100.stanford.edu/sites/g/files/sbiybj9861/f/ai100report10032016fnl_singles.pdf): The One Hundred Year Study on Artificial Intelligence, launched in the fall of 2014, is a longterm investigation of the field of Artificial Intelligence (AI) and its influences on people, their communities, and society.
+* [Artificial Intelligence and Life in 2030: ](https://ai100.stanford.edu/sites/g/files/sbiybj9861/f/ai100report10032016fnl_singles.pdf): "The One Hundred Year Study on Artificial Intelligence, launched in the fall of 2014, is a longterm investigation of the field of Artificial Intelligence (AI) and its influences on people, their communities, and society."
 
 # Introdução: Inteligência Artificial
 
