@@ -100,3 +100,6 @@ Use joints, bones and muscles to build creatures that are only limited by your i
 * [Karl Sims - Evolved Virtual Creatures, Evolution Simulation, 1994](https://youtu.be/JBgG_VSP7f8)
 * [The Surprising Creativity of Digital Evolution - YouTube](https://www.youtube.com/playlist?list=PL5278ezwmoxQODgYB0hWnC0-Ob09GZGe2)
 * [Strandbeest](https://www.strandbeest.com/theo_cv.php)
+
+## References
+* https://github.com/omerbsezer/AIMap
